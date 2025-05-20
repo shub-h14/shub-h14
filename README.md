@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey there, I'm Shubhangi Shree 👋
 
 🎓 I'm a final year B.Tech Computer Science student at Manipal Institute of Technology.  
