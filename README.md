@@ -1,7 +1,7 @@
 # Hey there, I'm Shubhangi Shree 👋
 
 <p align="center">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="300" />
 </p>
 
 🎓 I'm a final year B.Tech Computer Science student at Manipal Institute of Technology.  
