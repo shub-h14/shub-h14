@@ -1,5 +1,9 @@
 # Hey there, I'm Shubhangi Shree 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" />
+</p>
+
 🎓 I'm a final year B.Tech Computer Science student at Manipal Institute of Technology.  
  I’m deeply passionate about Artificial Intelligence and Machine Learning, and I love exploring the latest in AI research, building ML models, and solving real-world problems using data.  
 🌙 A night owl coder who enjoys building things that matter.
