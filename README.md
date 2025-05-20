@@ -14,8 +14,8 @@ Beyond code, I love dabbling with creative projects — whether it’s music, ph
 I believe in lifelong learning, collaboration, and sharing knowledge to grow as a developer and human.  
 
 💬 Let's connect and create something amazing together!  
-📧 **Reach me at: meetshubhangi14@gmail.com    
-🔗 **LinkedIn:** www.linkedin.com/in/shubhangi-shree-176910250
+📧 Reach me at: meetshubhangi14@gmail.com    
+🔗 LinkedIn: www.linkedin.com/in/shubhangi-shree-176910250
 
 ---
 
