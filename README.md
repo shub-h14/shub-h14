@@ -14,11 +14,17 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 I love exploring cutting-edge AI research and building ML models.
-- 💻 I enjoy solving real-world problems through data-driven solutions.
-- 🌙 A night owl who codes under moonlight and thrives on curiosity.
-- 🎶 Outside tech, I enjoy music, photography, and writing.
-- 🤝 I believe in collaboration, open learning, and building things that matter.
+I'm Shubhangi — a curious mind and a code whisperer on a mission to bridge the gap between **intelligent systems and impactful solutions**.  
+
+🚀 As a final-year B.Tech Computer Science student, I’ve spent my academic journey deep-diving into the world of **Machine Learning and Artificial Intelligence**, constantly driven by the thrill of solving complex problems and making data *speak*.
+
+But I don’t just want to build smarter machines — I want to **lead teams that build them**.
+
+💡 I’ve led projects, collaborated across diverse teams, and thrived in fast-paced environments. I believe great tech starts with great people, and I’m actively sharpening my skills in **leadership, strategy, and tech-driven management** to create solutions that not only work — but inspire.
+
+Whether it's fine-tuning a neural network or coordinating a team sprint, I’m all about **growth, grit, and getting things done**.
+
+🌐 Always learning. Always leading. Always ready to build what's next.
 
 ---
 
@@ -75,3 +81,9 @@
 
 I'm always open to collaboration, cool ideas, and interesting conversations — feel free to reach out!  
 Together, we can create something meaningful 💙
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shub-h14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
