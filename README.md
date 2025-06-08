@@ -7,7 +7,7 @@
 <p align="center">
   <b>Final-year B.Tech Computer Science student at Manipal Institute of Technology</b><br>
   Passionate about <strong>Artificial Intelligence</strong> & <strong>Machine Learning</strong><br>
-  🌙 Night owl coder | 🎨 Creative soul | 💡 Lifelong learner
+   🎨 Creative | 💡 learner | 💻 Coder | 👩‍💻 Developer
 </p>
 
 ---
