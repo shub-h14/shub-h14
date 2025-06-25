@@ -83,7 +83,6 @@ I'm always open to collaboration, cool ideas, and interesting conversations — 
 Together, we can create something meaningful 💙
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shub-h14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
