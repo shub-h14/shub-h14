@@ -34,6 +34,7 @@ Whether it's fine-tuning a neural network or coordinating a team sprint, I’m a
 - 🔗 [linkedin.com/in/shubhangi-shree-176910250](https://www.linkedin.com/in/shubhangi-shree-176910250)
 
 ---
+
 ## 💻 Skills & Technologies
 
 ### 🔹 Languages  
