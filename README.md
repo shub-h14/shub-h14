@@ -9,6 +9,7 @@
   Passionate about <strong>Artificial Intelligence</strong> & <strong>Machine Learning</strong><br>
    🎨 Creative | 💡 learner | 💻 Coder | 👩‍💻 Developer
 </p>
+
 ---
 
 ## 🙋‍♀️ About Me
