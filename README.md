@@ -10,7 +10,6 @@
    🎨 Creative | 💡 learner | 💻 Coder | 👩‍💻 Developer
 </p>
 ---
-
 ## 🙋‍♀️ About Me
 
 I'm Shubhangi — a curious mind and a code whisperer on a mission to bridge the gap between **intelligent systems and impactful solutions**.  
