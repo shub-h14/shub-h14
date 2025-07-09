@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif" width="400" alt="AI gif" />
 </p>
-
 <p align="center">
   <b>Final-year B.Tech Computer Science student at Manipal Institute of Technology</b><br>
   Passionate about <strong>Artificial Intelligence</strong> & <strong>Machine Learning</strong><br>
