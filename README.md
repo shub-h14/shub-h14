@@ -19,6 +19,7 @@ I'm Shubhangi — a curious mind and a code whisperer on a mission to bridge the
 
 But I don’t just want to build smarter machines — I want to **lead teams that build them**.
 
+
 💡 I’ve led projects, collaborated across diverse teams, and thrived in fast-paced environments. I believe great tech starts with great people, and I’m actively sharpening my skills in **leadership, strategy, and tech-driven management** to create solutions that not only work — but inspire.
 
 Whether it's fine-tuning a neural network or coordinating a team sprint, I’m all about **growth, grit, and getting things done**.
